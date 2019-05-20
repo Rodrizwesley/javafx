@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gui.util.Constrains&apos; to &apos;Constraints&apos;&#x0D;&#x0A;- Original project: &apos;javafx-5&apos;&#x0D;&#x0A;- Original element: &apos;gui.util.Constrains&apos;&#x0D;&#x0A;- Renamed element: &apos;gui.util.Constraints&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Constrains&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gui.util{Constrains.java[Constrains" matchStrategy="1" name="Constraints" qualified="false" references="true" similarDeclarations="false" stamp="1558109338834" textual="false" version="1.0"/>
+</session>
